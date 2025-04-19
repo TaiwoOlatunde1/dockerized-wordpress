@@ -1,7 +1,6 @@
 
 ---
 
-```markdown
 # 🐳 WordPress + MySQL + Ngrok Docker Setup
 
 [![Docker](https://img.shields.io/badge/docker-ready-blue?logo=docker&logoColor=white)](https://www.docker.com/)
@@ -116,7 +115,7 @@ docker-compose down -v
 
 ## ⚠️ Notes
 
-- This setup is for **development purposes only** — not production ready as-is.
+- This setup is for **development purposes only** — not production-ready as-is.
 - Ngrok exposes your local WordPress site to the public internet — share responsibly.
 
 ---
@@ -127,4 +126,3 @@ docker-compose down -v
 - If you encounter issues with Ngrok, double-check your token or visit your [Ngrok dashboard](https://dashboard.ngrok.com).
 
 ---
-```
